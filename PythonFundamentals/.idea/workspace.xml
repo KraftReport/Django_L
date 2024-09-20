@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8af0dd6-9a9a-4a49-a11e-918015f965a5" name="Changes" comment="first python program">
-      <change afterPath="$PROJECT_DIR$/PandasDemo.py" afterDir="false" />
+    <list default="true" id="c8af0dd6-9a9a-4a49-a11e-918015f965a5" name="Changes" comment="binary search and pandas demo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
     "Python.TodoList.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/KraftWork/Desktop/GitWorkSpace/Django_L/PythonFundamentals",
+    "last_opened_file_path": "C:/Users/KraftWork/Downloads/hsc-django-api-main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -97,6 +97,9 @@
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -159,7 +162,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726715812731</updated>
-      <workItem from="1726715820142" duration="11594000" />
+      <workItem from="1726715820142" duration="15367000" />
+      <workItem from="1726802266026" duration="693000" />
     </task>
     <task id="LOCAL-00001" summary="first python program">
       <option name="closed" value="true" />
@@ -169,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726721859541</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="binary search and pandas demo">
+      <option name="closed" value="true" />
+      <created>1726732597072</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726732597072</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,7 +200,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first python program" />
-    <option name="LAST_COMMIT_MESSAGE" value="first python program" />
+    <MESSAGE value="binary search and pandas demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="binary search and pandas demo" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonFundamentals$PandasDemo.coverage" NAME="PandasDemo Coverage Results" MODIFIED="1726731977344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
